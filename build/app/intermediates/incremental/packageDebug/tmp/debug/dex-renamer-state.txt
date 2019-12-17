@@ -1,0 +1,4 @@
+#Wed Dec 18 00:25:52 BDT 2019
+base.0=/home/arafat/Projects/AndroidStudioProjects/flutter_ecom/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
